@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/express-fileupload" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mongodb" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
