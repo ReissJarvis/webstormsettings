@@ -12,6 +12,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/fs-extra" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/mongodb" type="javaScript">
       <CLASSES />
       <SOURCES />
