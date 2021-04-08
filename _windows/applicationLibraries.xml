@@ -1,6 +1,30 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/pdfjs-dist" type="javaScript">
+    <library name="@types/body-parser" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/express-fileupload" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/fs-extra" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mongodb" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/request" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/uuid" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
