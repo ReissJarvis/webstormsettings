@@ -7,7 +7,9 @@
     <option name="applicationState" value="CUSTOM" />
     <option name="applicationStateCustom" value="" />
     <option name="applicationIconLargeTextCustom" value="" />
-    <option name="applicationIconSmallTextCustom" value="" />
+    <option name="applicationIconSmall" value="APPLICATION" />
+    <option name="applicationIconSmallText" value="CUSTOM" />
+    <option name="applicationIconSmallTextCustom" value="Writing Broken code" />
     <option name="projectDetails" value="CUSTOM" />
     <option name="projectDetailsCustom" value="Writing Broken code" />
     <option name="projectState" value="CUSTOM" />
