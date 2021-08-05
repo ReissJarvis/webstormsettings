@@ -9,6 +9,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".helmignore" type="PLAIN_TEXT" />
       <mapping pattern=".env-uk-test" type="PLAIN_TEXT" />
+      <mapping ext="debug" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="npmrc" type="PLAIN_TEXT" />
     </extensionMap>
